@@ -1,0 +1,11 @@
+C:\Users\radio\Labs\C#\Работа_CS_401\Работа_CS_401\bin\Debug\Работа_CS_401.exe.config
+C:\Users\radio\Labs\C#\Работа_CS_401\Работа_CS_401\bin\Debug\Работа_CS_401.exe
+C:\Users\radio\Labs\C#\Работа_CS_401\Работа_CS_401\bin\Debug\Работа_CS_401.pdb
+C:\Users\radio\Labs\C#\Работа_CS_401\Работа_CS_401\bin\Debug\carlib.pdb
+C:\Users\radio\Labs\C#\Работа_CS_401\Работа_CS_401\obj\Debug\Работа_CS_401.csproj.AssemblyReference.cache
+C:\Users\radio\Labs\C#\Работа_CS_401\Работа_CS_401\obj\Debug\Работа_CS_401.csproj.SuggestedBindingRedirects.cache
+C:\Users\radio\Labs\C#\Работа_CS_401\Работа_CS_401\obj\Debug\Работа_CS_401.csproj.CoreCompileInputs.cache
+C:\Users\radio\Labs\C#\Работа_CS_401\Работа_CS_401\obj\Debug\Работа_CS_401.csproj.CopyComplete
+C:\Users\radio\Labs\C#\Работа_CS_401\Работа_CS_401\obj\Debug\Работа_CS_401.exe
+C:\Users\radio\Labs\C#\Работа_CS_401\Работа_CS_401\obj\Debug\Работа_CS_401.pdb
+C:\Users\radio\Labs\C#\Работа_CS_401\Работа_CS_401\bin\Debug\carlib.dll

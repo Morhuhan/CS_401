@@ -1,0 +1,11 @@
+C:\Users\radio\Labs\C#\Работа_CS_401\CarDomain\CarDomain\bin\Debug\CarDomain.exe.config
+C:\Users\radio\Labs\C#\Работа_CS_401\CarDomain\CarDomain\bin\Debug\CarDomain.exe
+C:\Users\radio\Labs\C#\Работа_CS_401\CarDomain\CarDomain\bin\Debug\CarDomain.pdb
+C:\Users\radio\Labs\C#\Работа_CS_401\CarDomain\CarDomain\obj\Debug\CarDomain.csproj.AssemblyReference.cache
+C:\Users\radio\Labs\C#\Работа_CS_401\CarDomain\CarDomain\obj\Debug\CarDomain.csproj.SuggestedBindingRedirects.cache
+C:\Users\radio\Labs\C#\Работа_CS_401\CarDomain\CarDomain\obj\Debug\CarDomain.csproj.CoreCompileInputs.cache
+C:\Users\radio\Labs\C#\Работа_CS_401\CarDomain\CarDomain\obj\Debug\CarDomain.exe
+C:\Users\radio\Labs\C#\Работа_CS_401\CarDomain\CarDomain\obj\Debug\CarDomain.pdb
+C:\Users\radio\Labs\C#\Работа_CS_401\CarDomain\CarDomain\bin\Debug\carlib.dll
+C:\Users\radio\Labs\C#\Работа_CS_401\CarDomain\CarDomain\bin\Debug\carlib.pdb
+C:\Users\radio\Labs\C#\Работа_CS_401\CarDomain\CarDomain\obj\Debug\CarDomain.csproj.CopyComplete
